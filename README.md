@@ -1,2 +1,1 @@
 # Rustysrp
-garbage collector
